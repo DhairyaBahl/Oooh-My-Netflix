@@ -8,7 +8,39 @@
 
 <br>
 
-<h2 align = "center">Something Like Netflix⚠️</h2>
 <div align ="center" >
-<img src = "https://user-images.githubusercontent.com/71627983/131236982-177147b7-f7e3-4e49-8ecd-25aeec8d89e3.png" height=400 >
+<h2 align = "center">Something Like Netflix⚠️</h2>
+<h2 align = "center">This is not the final build ! Work is still in progress🚀</h2>
+<img src = "https://user-images.githubusercontent.com/71627983/131236982-177147b7-f7e3-4e49-8ecd-25aeec8d89e3.png" height=350 >
 </div>
+
+<div align ="center" >
+<h2 align = "center">Homepage Banner</h2>
+<img width="960" alt="HomepageBanner" src="https://user-images.githubusercontent.com/71627983/131237207-f02d92ae-f8a8-43e9-9089-ef7579d54260.png">
+</div>
+
+<div align ="center" >
+<h2 align = "center">Casual Rows</h2>
+<img width="932" alt="CausalRows" src="https://user-images.githubusercontent.com/71627983/131237225-b469b734-6b24-45cf-bf9e-39120826d091.png">
+</div>
+
+<div align ="center" >
+<h2 align = "center">Trending Row</h2>
+<img width="940" alt="TrendingRow" src="https://user-images.githubusercontent.com/71627983/131237232-e076411c-82b4-482f-8758-8425ff1440f0.png">
+</div>
+
+<div align ="center" >
+<h2 align = "center">Hover Effect</h2>
+<img width="802" alt="HoverEffect" src="https://user-images.githubusercontent.com/71627983/131237253-6a5e1146-413f-4bd5-a835-6855b1f8ab44.png">
+</div>
+
+<div align ="center" >
+<h2 align = "center">Getting Started</h2>
+<img width="959" alt="GettingStarted" src="https://user-images.githubusercontent.com/71627983/131237238-cd3fdf1b-c4b3-4d44-b851-b84b4379ebfa.png">
+</div>
+
+<div align ="center" >
+<h2 align = "center">Login Page</h2>
+<img width="934" alt="LoginPage" src="https://user-images.githubusercontent.com/71627983/131237261-56fe6f23-98cb-4481-9c18-0fd6c5db90b5.png">
+</div>
+
