@@ -44,3 +44,8 @@
 <img width="934" alt="LoginPage" src="https://user-images.githubusercontent.com/71627983/131237261-56fe6f23-98cb-4481-9c18-0fd6c5db90b5.png">
 </div>
 
+<div align ="center" >
+<h2 align = "center">Full Screen Movie Playback</h2>
+<img width="934" alt="fullscreen" src="https://user-images.githubusercontent.com/71627983/132360202-90a2a952-9a90-4d15-92c3-09621787f7f3.png">
+</div>
+
