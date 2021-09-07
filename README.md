@@ -31,7 +31,7 @@
 
 <div align ="center" >
 <h2 align = "center">Hover Effect</h2>
-<img width="802" alt="HoverEffect" src="https://user-images.githubusercontent.com/71627983/132354126-ba4d87e7-d66b-497b-aeba-8b0301560fee.png">
+<img width="802" alt="HoverEffect" src="https://user-images.githubusercontent.com/71627983/132354308-f984eecb-34ba-4e73-b311-48e1341dd6b5.png">
 </div>
 
 <div align ="center" >
